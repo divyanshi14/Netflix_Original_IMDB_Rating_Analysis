@@ -1,12 +1,12 @@
 # Netflix_Original_IMDB_Rating_Analysis
 Analyzing the data of Netflix original movies based on different attributes such as genre, runtime, IMDB score, and language.
 
-<img src ="https://check-imei.net/img/10_54_21_Netflix_logo.jpg">
+<img src = "https://check-imei.net/img/10_54_21_Netflix_logo.jpg">
 
 ### **Problem & background**
-• What is the problem?
+* What is the problem?
 Identifying the characteristics of successful Netflix original movies based on different attributes such as genre, runtime, IMDB score, and language.
-• Why is it important to be solved?
+* Why is it important to be solved?
 Understanding the features of successful movies can help Netflix in planning and producing more popular and well-received content, thereby attracting a larger audience and increasing its market share in the OTT platform industry.
 
 ### **Solution & Outcomes**
