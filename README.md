@@ -1,7 +1,7 @@
 # Netflix_Original_IMDB_Rating_Analysis
 Analyzing the data of Netflix original movies based on different attributes such as genre, runtime, IMDB score, and language.
 
-<img src = "https://check-imei.net/img/10_54_21_Netflix_logo.jpg">
+<img src = "https://www.hollywoodreporter.com/wp-content/uploads/2022/04/GettyImages-1215343887-H-2022.jpg">
 
 ### **Problem & background**
 * What is the problem?
